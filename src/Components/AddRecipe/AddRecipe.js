@@ -25,6 +25,8 @@ const AddRecipe = () => {
                                 <select class="form-control my-3 p-3">
                                     <option>Choose Category</option>
                                 </select>
+                                {/* SOME TEXT */}
+
                                 <TextField
                                     id="outlined-multiline-static"
                                     label="Recipe Information"
