@@ -1,23 +1,30 @@
 [
-    {
-        "id": 1,
-        "title": "Butternut Squash Soup",
-        "cat": "RECIPES — SOUP",
-        "time": "45 min — 6 - 8 portions",
-        "img": "https://i.ibb.co/0hZt4y7/cayla1-w6ft-Fb-PCs9-I-unsplash.png"
-    },
-    {
-        "id": 2,
-        "title": "Berries Smoothie",
-        "cat": "RECIPES — DRINKS — BREAKFAST",
-        "time": "15 min — 2 - 4 portions",
-        "img": "https://i.ibb.co/3SZd34D/berries-blackberries-close-up.png"
-    },
-    {
-        "id": 3,
-        "title": "Vegetarian Dumplings",
-        "cat": "RECIPES — ASIAN",
-        "time": "40 min — 4 - 6 portions",
-        "img": "https://i.ibb.co/kJ8wWPL/charles-deluvio-D-v-DQMTf-AAU-un.png"
-    }
+  {
+    "id": 1,
+    "title": "Gin",
+    "subtitle": "Perfect  for Hot tastless cocktails",
+    "price": "45 min — 6 - 8 portions",
+    "img": "https://i.ibb.co/3S6zXVK/unsplash-2bk9-F342-Li-M.png"
+  },
+  {
+    "id": 2,
+    "title": "Vodka",
+    "subtitle": "The Tastier the merrier",
+    "price": "15 min — 2 - 4 portions",
+    "img": "https://i.ibb.co/7ySrP4q/unsplash-nk-Utc-Tb7-SOg.png"
+  },
+  {
+    "id": 3,
+    "title": "Tequila",
+    "subtitle": "Nasty beater",
+    "price": "40 min — 4 - 6 portions",
+    "img": "https://i.ibb.co/sHk7S6h/unsplash-1t-Iq9-Oxo-Qi0.png"
+  },
+  {
+    "id": 4,
+    "title": "Rum",
+    "subtitle": "OIl creamer",
+    "price": "40 min — 4 - 6 portions",
+    "img": "https://i.ibb.co/mG2kDFk/unsplash-x-ZLDSh-RVt-Zw.png"
+  }
 ]
